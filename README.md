@@ -47,7 +47,7 @@ Python 기반 GUI로 제작되었으며, 키보드와 마우스 입력을 **순�
 pip install pyautogui keyboard pillow
 ```
 2️⃣ 실행
-python diablo_helper.py
+python main.py
 
 ⚙ 기본 설정
 항목	기본값
@@ -58,7 +58,7 @@ python diablo_helper.py
 📁 프로젝트 구조
 코드 복사
 diablo_helper/
- ├─ diablo_helper.py
+ ├─ main.py
  └─ README.md
  
 ⚠️ 주의 사항
